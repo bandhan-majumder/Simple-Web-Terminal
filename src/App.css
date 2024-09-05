@@ -1,0 +1,25 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #333;
+}
+.App{
+  background-color: #333;
+  color: rgb(16, 246, 4);
+  height: 100%;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+input{
+  border: none;
+  outline: none;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: rgb(106, 203, 86);
+  width: 100%;
+  
+}
+.terminal{
+  white-space: pre-line;
+}
